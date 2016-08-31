@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Whiteboard</string>
+	<key>CFBundleGenerator</key>
+	<string>iAd Producer</string>
+	<key>CFBundleGeneratorVersion</key>
+	<string>5.2</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mycompany.widget.MyWidgetTitle</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleUniqueIdentifier</key>
+	<string>D1C43CA2-F6D8-4D29-8B6A-24DB278700A2</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>Height</key>
+	<string>768</string>
+	<key>IBNotifiesOnReady</key>
+	<true/>
+	<key>KFNotifiesOnReady</key>
+	<true/>
+	<key>MainHTML</key>
+	<string>index.html</string>
+	<key>Width</key>
+	<string>1024</string>
+</dict>
+</plist>
